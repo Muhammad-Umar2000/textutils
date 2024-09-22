@@ -1,0 +1,10 @@
+{
+    "workbench.externalBrowser": "chrome",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "debug.javascript.defaultRuntimeExecutable": {
+
+        "pwa-node": "node"
+    },
+    "liveServer.settings.port": 3001
+}
